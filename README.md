@@ -1,5 +1,5 @@
 # COVID19_PH
-Real time actionable data analysis of COVID19 outbreak in the Philippines
+COVID19_PH: Epidemiological models of the COVID19 in the Philippines
 
 This site is dedicated to epidemiological models of the on-going COVID19 outbreak in the Philippines. The aim of the analysis is to forecast number of possible cases, determine outbreak peak and duration. This site also generates real-time reproductive number, a measure of disease transmission. The intention of the work is to inform public officials and medical practitioners in order to make data-driven decisions using state of the art infectious disease models. 
 
