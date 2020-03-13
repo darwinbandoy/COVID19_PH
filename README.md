@@ -5,4 +5,4 @@ This site is dedicated to epidemiological models of the on-going COVID19 outbrea
 
 About the author
 
-Dr. Bandoy is an assistant professor of the College of Veterinary Medicine,University of the Philippine Los Baños and is currently the Philippine California Advanced Research Institute (PCARI) One Health PhD Scholar at the Weimer Lab at the School of Veterinary Medicine, University of California, Davis. He is using genomics, infectious disease modelling and machine learning to derive actionable insight into one health pathogens. 
+Dr. Bandoy is an assistant professor (on academic leave) at the College of Veterinary Medicine,University of the Philippine Los Baños and is currently the Philippine California Advanced Research Institute (PCARI) One Health PhD Scholar at the Weimer Lab,School of Veterinary Medicine, University of California, Davis. He is using genomics, infectious disease modelling and machine learning to derive actionable insight into one health pathogens. 
